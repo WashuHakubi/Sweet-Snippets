@@ -1,0 +1,8 @@
+DllSample/Debug/*
+DllSample/DllProject/Debug/*
+DllSample/ExeProject/Debug/*
+DllSample/Release/*
+DllSample/DllProject/Release/*
+DllSample/ExeProject/Release/*
+DllSample/DllSample.sdf
+*.opensdf
